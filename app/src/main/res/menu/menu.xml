@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/red"
+        android:icon="@android:drawable/ic_dialog_alert"
+        android:title="Rojo" />
+    <item
+        android:id="@+id/blue"
+        android:icon="@android:drawable/btn_star"
+        android:title="Azul" />
+    <item
+        android:id="@+id/green"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Verde" />
+</menu>
